@@ -21,3 +21,7 @@ It worked.  Hooray!
 # References
 
 Some references
+
+# Acknowledgements
+
+I'd like to thank...
