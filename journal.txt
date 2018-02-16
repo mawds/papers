@@ -1,6 +1,10 @@
 Test journal
 With John
 
+# Simulations
+
+John did some simulations.   These went well.
+
 # References
 
 Some references
