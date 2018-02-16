@@ -1,1 +1,5 @@
 Test journal
+
+# References
+
+Some references
