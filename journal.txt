@@ -5,6 +5,10 @@ With John
 
 John did some simulations.   These went well.
 
+# Methodology
+
+cite paper
+
 # References
 
 Some references
